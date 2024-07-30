@@ -16,7 +16,7 @@ function Home() {
           <PlayerButton text="Single Player" />
         </Link>
         <Link to="/game">
-          <PlayerButton text="Multiplayer" />
+          <PlayerButton text="Local Multiplayer" />
         </Link>
       </div>
     </div>
